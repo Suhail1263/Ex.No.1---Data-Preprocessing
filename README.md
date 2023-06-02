@@ -3,7 +3,7 @@
 
 To perform Data preprocessing in a data set downloaded from Kaggle
 
-##REQUIPMENTS REQUIRED:
+## REQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
@@ -24,12 +24,14 @@ Another aspect is that the data set should be formatted in such a way that more 
 
 
 ## ALGORITHM:
+```py
 Importing the libraries
 Importing the dataset
 Taking care of missing data
 Encoding categorical data
 Normalizing the data
 Splitting the data into test and train
+```
 
 ## PROGRAM:
 ```py
@@ -75,7 +77,7 @@ print(df1)
 ```
 
 ## OUTPUT:
-##DATASET
+## DATASET
 
 <img width="430" alt="image" src="https://user-images.githubusercontent.com/113534309/230764557-afba6da0-9e62-4471-a875-9d48170f6bce.png">
 
